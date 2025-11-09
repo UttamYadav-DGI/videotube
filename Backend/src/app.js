@@ -5,16 +5,11 @@ const app = express();
 
 // ✅ Must be ABOVE all routes and middleware
 const corsOptions = {
-<<<<<<< HEAD
   origin: [
     "http://localhost:5173", // for local development
     "https://video-tube-plum.vercel.app", // for production
   ],
   methods: "GET,POST,PUT,DELETE,PATCH,HEAD",
-=======
-  origin: "https://video-tube-plum.vercel.app",  // your frontend domain
-  methods: ["GET", "POST", "PUT", "DELETE", "PATCH", "HEAD"],
->>>>>>> 98732060b852b903a2bc55eb28fb1b444a0404cb
   credentials: true,
 };
 app.use(cors(corsOptions));
