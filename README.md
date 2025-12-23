@@ -3,6 +3,28 @@
 A full-stack video sharing platform inspired by YouTube, built with React.js, Node.js, Express.js, MongoDB, Cloudinary, JWT, and Tailwind CSS.
 Users can upload, watch, like/dislike, subscribe, and manage their videos in a seamless and responsive interface.
 
+
+📸 Screenshots
+
+![Login Page](./assets/screenshot(867).png)
+
+
+![Video Watch Page](./Assets/Screenshot%20(868).png)
+
+![Upload Video Page](./Assets/Screenshot%20(869).png)
+
+![Like Page](./Assets//Screenshot%20(870).png)
+
+![Playlist Page](./Assets/Screenshot%20(871).png)
+
+![playlist Page](./Assets/Screenshot%20(872).png)
+
+![user profile page](./Assets//Screenshot%20(873).png)
+
+![user information page](./Assets/Screenshot%20(874).png)
+
+
+
 📌 Features
 
 🔐 Authentication & Authorization
@@ -122,25 +144,6 @@ VideoTube/
 │   └── index.js          # Entry point
 │
 └── README.md
-
-📸 Screenshots
-
-![Login Page](./assets/screenshot(867).png)
-
-
-![Video Watch Page](./Assets/Screenshot%20(868).png)
-
-![Upload Video Page](./Assets/Screenshot%20(869).png)
-
-![Like Page](./Assets//Screenshot%20(870).png)
-
-![Playlist Page](./Assets/Screenshot%20(871).png)
-
-![playlist Page](./Assets/Screenshot%20(872).png)
-
-![user profile page](./Assets//Screenshot%20(873).png)
-
-![user information page](./Assets/Screenshot%20(874).png)
 
 
 
